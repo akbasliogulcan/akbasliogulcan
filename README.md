@@ -13,5 +13,4 @@ Hi 👋, I'm Oğulcan Akbaşlı
 
 
 📫 How to reach me ogulcanakbasli@gmail.com
-**akbasliogulcan/akbasliogulcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
