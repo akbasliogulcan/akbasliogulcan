@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm on an exciting journey to become a React-Js de
 
 <h3> Hi 👋, I'm Oğulcan Akbaşlı</h3>
 
-🌱 I’m currently learning JavaScript, React, TypeScript
+🌱 I’m currently learning JavaScript, React, html,css,bootstrap,sass
 
 👯 I’m looking to collaborate on innovative web and mobile applications.
 
