@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm on an exciting journey to become a Full Stack 
 
 🚀 Keep scrolling to learn more about what I'm currently working on, what I'm learning, and how we can collaborate!
 
-<h3> Hi 👋, I'm Oğulcan Akbaşlı</h3>
+
 
 🌱 I’m currently learning JavaScript, React, html,css,bootstrap,sass,tailwindcss
 
