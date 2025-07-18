@@ -14,3 +14,9 @@ Welcome to my GitHub profile! I'm on an exciting journey to become a React-Js de
 
 📫 How to reach me ogulcanakbasli@gmail.com
 
+Language and tools:
+<span style="display:inline-block; background:#264de4; color:white; font-weight:bold; padding:6px 12px; border-radius:6px;">
+  CSS3
+</span>
+
+
