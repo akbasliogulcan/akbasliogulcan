@@ -27,6 +27,7 @@ Language and tools:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" alt="React"/>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbasliogulcan&layout=compact&langs_count=6&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
