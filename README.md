@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm on an exciting journey to become a Full Stack 
 
 👯 I’m looking to collaborate on innovative web and mobile applications.
 
-📫 How to reach me:::::::>>>>>> ogulcanakbasli@gmail.com
+📫 How to reach me   >>>>>>   ogulcanakbasli@gmail.com
 
 ## 🛠️ Languages and Tools:
 
