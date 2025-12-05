@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 <p>
-Welcome to my GitHub profile! I'm currently on an exciting journey to become a Full Stack Developer.  
+Welcome to my GitHub profile! I'm currently on an exciting journey to become a Front End Developer.  
 I’m passionate about coding, problem-solving, and building scalable applications.  
 I love exploring new technologies and collaborating with others to create meaningful and innovative solutions.  
 
